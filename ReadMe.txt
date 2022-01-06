@@ -2,10 +2,7 @@
 Practical section number: P6
 Asignment question attempted: Q4 (text editor)
 #############################################################
-Team:
-1. 2019B4PS0639P: Raghav Luthra
-2. 2019B1PS0750P: Sudhanshu Mishra
-3. 2019A2PS0585P: Tarun Kaushik
+1. 2019B1PS0750P: Sudhanshu Mishra
 #############################################################
 Description of how to run the code and observe the output:
 
